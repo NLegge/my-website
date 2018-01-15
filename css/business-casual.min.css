@@ -151,7 +151,7 @@ p {
 
 .cta .cta-inner:before {
   border-radius: .5rem;
-  content: '';
+  
   position: absolute;
   top: -.5rem;
   bottom: -.5rem;
